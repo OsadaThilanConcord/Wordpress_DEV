@@ -18,7 +18,7 @@
 	fill:#ffffff;
 }
 .depicter-revert .depicter-5-element-15{
-	background-color:#ffffff;
+	background-color:#FFF;
 	border:none;
 	border-radius:8px 8px 8px 8px;
 }
@@ -35,65 +35,23 @@
 .depicter-5-element-15:hover .depicter-symbol-container{
 	fill:#ffffff;
 }
-.depicter-revert .depicter-5-element-13{
-	padding:22px;
-	font-size:16px;
-	text-align:center;
-	color:#ffffff;
-	font-family:"Rubik";
-	font-weight:300;
-	text-transform:uppercase;
-	letter-spacing:1px;
-	box-shadow:0px 14px 30px 0px rgba(0, 0, 0, 0.11);
-	background-color:transparent;
-	border-width:2px;
-	border-style:solid;
-	border-color:#ffffff;
-	border-radius:6px;
-}
-.depicter-revert .depicter-5-element-13:not(.depicter-hover-off){
-	transition:all ease 0.5s;
-}
-.depicter-revert .depicter-5-element-13:not(.depicter-hover-off):hover {
-	color:#000000;
-	background-color:#ffffff;
-}
-.depicter-revert .depicter-5-element-12{
-	padding:22px;
-	font-size:16px;
-	text-align:center;
-	color:#eb802a;
-	font-family:"Rubik";
-	font-weight:300;
-	text-transform:uppercase;
-	letter-spacing:1px;
-	box-shadow:0px 14px 30px 0px rgba(0, 0, 0, 0.11);
-	background-color:#ffffff;
-	border-radius:6px;
-}
-.depicter-revert .depicter-5-element-12:not(.depicter-hover-off){
-	transition:all ease 0.3s;
-}
-.depicter-revert .depicter-5-element-12:not(.depicter-hover-off):hover {
-	color:#FFF;
-	background-color:#222222;
-}
 .depicter-revert .depicter-5-element-11{
 	background-color:#ffffff;
 }
 .depicter-revert .depicter-5-element-10{
 	font-size:20px;
 	text-align:left;
-	color:#ffffff;
+	color:#FFF;
 	font-family:"Rubik";
 	font-weight:400;
 	line-height:120%;
 	background-color:transparent;
 }
 .depicter-revert .depicter-5-element-9{
-	font-size:76px;
+	opacity:0.993;
+	font-size:38px;
 	text-align:left;
-	color:#ffffff;
+	color:#FFF;
 	font-family:"Rubik";
 	font-weight:500;
 	line-height:120%;
@@ -102,49 +60,6 @@
 .depicter-revert .depicter-5-section-1 .depicter-section-background{
 	background-color:#FFF;
 	filter:none;
-}
-.depicter-revert .depicter-5-element-37{
-	padding:22px;
-	font-size:16px;
-	text-align:center;
-	color:#ffffff;
-	font-family:"Rubik";
-	font-weight:300;
-	text-transform:uppercase;
-	letter-spacing:1px;
-	box-shadow:0px 14px 30px 0px rgba(0, 0, 0, 0.11);
-	background-color:transparent;
-	border-width:2px;
-	border-style:solid;
-	border-color:#ffffff;
-	border-radius:6px;
-}
-.depicter-revert .depicter-5-element-37:not(.depicter-hover-off){
-	transition:all ease 0.5s;
-}
-.depicter-revert .depicter-5-element-37:not(.depicter-hover-off):hover {
-	color:#000000;
-	background-color:#ffffff;
-}
-.depicter-revert .depicter-5-element-36{
-	padding:22px;
-	font-size:16px;
-	text-align:center;
-	color:#eb802a;
-	font-family:"Rubik";
-	font-weight:300;
-	text-transform:uppercase;
-	letter-spacing:1px;
-	box-shadow:0px 14px 30px 0px rgba(0, 0, 0, 0.11);
-	background-color:#ffffff;
-	border-radius:6px;
-}
-.depicter-revert .depicter-5-element-36:not(.depicter-hover-off){
-	transition:all ease 0.3s;
-}
-.depicter-revert .depicter-5-element-36:not(.depicter-hover-off):hover {
-	color:#FFF;
-	background-color:#222222;
 }
 .depicter-revert .depicter-5-element-35{
 	background-color:#ffffff;
@@ -168,50 +83,7 @@
 	background-color:transparent;
 }
 .depicter-revert .depicter-5-section-32 .depicter-section-background{
-	background-color:#FFFFFF;
-}
-.depicter-revert .depicter-5-element-45{
-	padding:22px;
-	font-size:16px;
-	text-align:center;
-	color:#ffffff;
-	font-family:"Rubik";
-	font-weight:300;
-	text-transform:uppercase;
-	letter-spacing:1px;
-	box-shadow:0px 14px 30px 0px rgba(0, 0, 0, 0.11);
-	background-color:transparent;
-	border-width:2px;
-	border-style:solid;
-	border-color:#ffffff;
-	border-radius:6px;
-}
-.depicter-revert .depicter-5-element-45:not(.depicter-hover-off){
-	transition:all ease 0.5s;
-}
-.depicter-revert .depicter-5-element-45:not(.depicter-hover-off):hover {
-	color:#000000;
-	background-color:#ffffff;
-}
-.depicter-revert .depicter-5-element-44{
-	padding:22px;
-	font-size:16px;
-	text-align:center;
-	color:#eb802a;
-	font-family:"Rubik";
-	font-weight:300;
-	text-transform:uppercase;
-	letter-spacing:1px;
-	box-shadow:0px 14px 30px 0px rgba(0, 0, 0, 0.11);
-	background-color:#ffffff;
-	border-radius:6px;
-}
-.depicter-revert .depicter-5-element-44:not(.depicter-hover-off){
-	transition:all ease 0.3s;
-}
-.depicter-revert .depicter-5-element-44:not(.depicter-hover-off):hover {
-	color:#FFF;
-	background-color:#222222;
+	background-color:#FFF;
 }
 .depicter-revert .depicter-5-element-43{
 	background-color:#ffffff;
@@ -235,7 +107,7 @@
 	background-color:transparent;
 }
 .depicter-revert .depicter-5-section-40 .depicter-section-background{
-	background-color:#FFFFFF;
+	background-color:#FFF;
 }
 
 /***** Tablet *****/
@@ -252,20 +124,6 @@
 }
 .depicter-5-element-15 .depicter-symbol-container{
 	fill:#EB802A;
-}
-.depicter-revert .depicter-5-element-13{
-	font-size:16px;
-	text-align:center;
-	color:#FFFFFF;
-	font-family:"Rubik";
-	font-weight:300;
-	text-transform:uppercase;
-	letter-spacing:1px;
-	overflow-wrap:break-word;
-	background-color:transparent;
-	border-width:2px;
-	border-style:solid;
-	border-color:#FFFFFF;
 }
 .depicter-revert .depicter-5-element-10{
 	font-size:16px;
@@ -344,33 +202,6 @@
 .depicter-5-element-15 .depicter-symbol-container{
 	fill:#EB802A;
 }
-.depicter-revert .depicter-5-element-13{
-	padding:7px;
-	font-size:12px;
-	text-align:center;
-	color:#FFFFFF;
-	font-family:"Rubik";
-	font-weight:300;
-	text-transform:uppercase;
-	letter-spacing:1px;
-	background-color:transparent;
-	border-width:2px;
-	border-style:solid;
-	border-color:#FFFFFF;
-	border-radius:4px;
-}
-.depicter-revert .depicter-5-element-12{
-	padding:7px;
-	font-size:12px;
-	text-align:center;
-	color:#EB802A;
-	font-family:"Rubik";
-	font-weight:300;
-	text-transform:uppercase;
-	letter-spacing:1px;
-	background-color:#FFFFFF;
-	border-radius:4px;
-}
 .depicter-revert .depicter-5-element-10{
 	font-size:12px;
 	text-align:left;
@@ -391,28 +222,6 @@
 .depicter-revert .depicter-5-section-1 .depicter-section-background{
 	background-color:#FFFFFF;
 }
-.depicter-revert .depicter-5-element-37{
-	padding:7px;
-	font-size:12px;
-	text-align:center;
-	color:#ffffff;
-	font-family:"Rubik";
-	font-weight:300;
-	text-transform:uppercase;
-	letter-spacing:1px;
-	border-radius:4px;
-}
-.depicter-revert .depicter-5-element-36{
-	padding:7px;
-	font-size:12px;
-	text-align:center;
-	color:#eb802a;
-	font-family:"Rubik";
-	font-weight:300;
-	text-transform:uppercase;
-	letter-spacing:1px;
-	border-radius:4px;
-}
 .depicter-revert .depicter-5-element-34{
 	font-size:12px;
 	text-align:left;
@@ -431,28 +240,6 @@
 }
 .depicter-revert .depicter-5-section-32 .depicter-section-background{
 	background-color:#FFFFFF;
-}
-.depicter-revert .depicter-5-element-45{
-	padding:7px;
-	font-size:12px;
-	text-align:center;
-	color:#ffffff;
-	font-family:"Rubik";
-	font-weight:300;
-	text-transform:uppercase;
-	letter-spacing:1px;
-	border-radius:4px;
-}
-.depicter-revert .depicter-5-element-44{
-	padding:7px;
-	font-size:12px;
-	text-align:center;
-	color:#eb802a;
-	font-family:"Rubik";
-	font-weight:300;
-	text-transform:uppercase;
-	letter-spacing:1px;
-	border-radius:4px;
 }
 .depicter-revert .depicter-5-element-42{
 	font-size:12px;
