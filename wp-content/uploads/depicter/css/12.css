@@ -1,0 +1,413 @@
+
+.depicter-revert.depicter-12 .depicter-layers-wrapper{
+	padding-left:15px;
+	padding-right:15px;
+}
+.depicter-revert .depicter-12-element-2{
+	font-size:40px;
+	color:#000000;
+	font-family:"Nunito";
+	font-weight:600;
+	line-height:120%;
+	text-transform:capitalize;
+	letter-spacing:-2px;
+	background-color:transparent;
+}
+.depicter-revert .depicter-12-element-22{
+	background-color:#ffffff;
+	border:none;
+	border-radius:50% 50% 50% 50%;
+}
+.depicter-revert .depicter-12-element-22:not(.depicter-hover-off){
+	transition:all ease 0.3s;
+}
+.depicter-revert .depicter-12-element-22:not(.depicter-hover-off):hover {
+	background-color:#FD346E;
+}
+.depicter-12-element-22 .depicter-symbol-container{
+	fill:#000;
+	transition:all ease 0.3s;
+}
+.depicter-12-element-22:hover .depicter-symbol-container{
+	fill:#ffffff;
+}
+.depicter-revert .depicter-12-element-23{
+	box-shadow:0px 10px 30px 0px rgba(253, 52, 110, 0.3);
+	background-color:#fd346e;
+	border:none;
+	border-radius:50% 50% 50% 50%;
+}
+.depicter-revert .depicter-12-element-23:not(.depicter-hover-off){
+	transition:all ease 0.3s;
+}
+.depicter-revert .depicter-12-element-23:not(.depicter-hover-off):hover {
+	background-color:#000000;
+}
+.depicter-12-element-23 .depicter-symbol-container{
+	fill:#ffffff;
+	transition:all ease 0.3s;
+}
+.depicter-revert .depicter-12-element-3{
+	font-size:18px;
+	color:#fd346e;
+	font-family:"Quicksand";
+	font-weight:700;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-12-element-21{
+	font-size:12px;
+	color:#70798b;
+	font-family:"Quicksand";
+	font-weight:500;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-12-element-19{
+	font-size:12px;
+	color:#70798b;
+	font-family:"Quicksand";
+	font-weight:500;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-12-element-17{
+	font-size:12px;
+	color:#70798b;
+	font-family:"Quicksand";
+	font-weight:500;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-12-element-16{
+	font-size:16px;
+	color:#000000;
+	font-family:"Nunito";
+	font-weight:700;
+	line-height:120%;
+	letter-spacing:0px;
+	background-color:transparent;
+}
+.depicter-revert .depicter-12-element-15{
+	font-size:12px;
+	color:#000000;
+	font-family:"Quicksand";
+	font-weight:500;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-12-element-14{
+	font-size:12px;
+	color:#000000;
+	font-family:"Quicksand";
+	font-weight:500;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-12-element-13{
+	font-size:16px;
+	color:#000000;
+	font-family:"Nunito";
+	font-weight:700;
+	line-height:120%;
+	letter-spacing:0px;
+	background-color:transparent;
+}
+.depicter-revert .depicter-12-element-12{
+	font-size:12px;
+	color:#000000;
+	font-family:"Quicksand";
+	font-weight:500;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-12-element-8{
+	font-size:16px;
+	color:#000000;
+	font-family:"Nunito";
+	font-weight:700;
+	line-height:120%;
+	letter-spacing:0px;
+	background-color:transparent;
+}
+.depicter-revert .depicter-12-element-6{
+	background-color:#ffffff;
+	border-radius:12px;
+}
+.depicter-revert .depicter-12-element-6:not(.depicter-hover-off){
+	transition:all ease 0.3s;
+}
+.depicter-revert .depicter-12-element-6:not(.depicter-hover-off):hover {
+	box-shadow:-15px 30px 30px 0px rgba(171, 175, 199, 0.3);
+}
+.depicter-revert .depicter-12-element-5{
+	background-color:#ffffff;
+	border-radius:12px;
+}
+.depicter-revert .depicter-12-element-5:not(.depicter-hover-off){
+	transition:all ease 0.3s;
+}
+.depicter-revert .depicter-12-element-5:not(.depicter-hover-off):hover {
+	box-shadow:-15px 30px 30px 0px rgba(171, 175, 199, 0.3);
+}
+.depicter-revert .depicter-12-element-4{
+	box-shadow:none;
+	background-color:#ffffff;
+	border-radius:12px;
+}
+.depicter-revert .depicter-12-element-4:not(.depicter-hover-off){
+	transition:all ease 0.3s;
+}
+.depicter-revert .depicter-12-element-4:not(.depicter-hover-off):hover {
+	box-shadow:-15px 30px 30px 0px rgba(171, 175, 199, 0.3);
+}
+.depicter-revert .depicter-12-section-1 .depicter-section-background{
+	background-color:#F3F4F6;
+}
+.depicter-revert .depicter-12-element-85{
+	font-size:12px;
+	color:#70798b;
+	font-family:"Quicksand";
+	font-weight:500;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-12-element-83{
+	font-size:12px;
+	color:#70798b;
+	font-family:"Quicksand";
+	font-weight:500;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-12-element-81{
+	font-size:12px;
+	color:#70798b;
+	font-family:"Quicksand";
+	font-weight:500;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-12-element-80{
+	font-size:16px;
+	color:#000000;
+	font-family:"Nunito";
+	font-weight:700;
+	line-height:120%;
+	text-transform:capitalize;
+	letter-spacing:0px;
+	background-color:transparent;
+}
+.depicter-revert .depicter-12-element-79{
+	font-size:12px;
+	color:#000000;
+	font-family:"Quicksand";
+	font-weight:500;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-12-element-78{
+	font-size:12px;
+	color:#000000;
+	font-family:"Quicksand";
+	font-weight:500;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-12-element-77{
+	font-size:16px;
+	color:#000000;
+	font-family:"Nunito";
+	font-weight:400;
+	line-height:120%;
+	text-transform:capitalize;
+	letter-spacing:0px;
+	background-color:transparent;
+}
+.depicter-revert .depicter-12-element-76{
+	font-size:12px;
+	color:#000000;
+	font-family:"Quicksand";
+	font-weight:500;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-12-element-72{
+	font-size:16px;
+	color:#000000;
+	font-family:"Nunito";
+	font-weight:700;
+	line-height:120%;
+	text-transform:capitalize;
+	letter-spacing:0px;
+	background-color:transparent;
+}
+.depicter-revert .depicter-12-element-71{
+	background-color:#ffffff;
+	border-radius:12px;
+}
+.depicter-revert .depicter-12-element-71:not(.depicter-hover-off){
+	transition:all ease 0.3s;
+}
+.depicter-revert .depicter-12-element-71:not(.depicter-hover-off):hover {
+	box-shadow:-15px 30px 30px 0px rgba(171, 175, 199, 0.3);
+}
+.depicter-revert .depicter-12-element-70{
+	background-color:#ffffff;
+	border-radius:12px;
+}
+.depicter-revert .depicter-12-element-70:not(.depicter-hover-off){
+	transition:all ease 0.3s;
+}
+.depicter-revert .depicter-12-element-70:not(.depicter-hover-off):hover {
+	box-shadow:-15px 30px 30px 0px rgba(171, 175, 199, 0.3);
+}
+.depicter-revert .depicter-12-element-69{
+	box-shadow:none;
+	background-color:#ffffff;
+	border-radius:12px;
+}
+.depicter-revert .depicter-12-element-69:not(.depicter-hover-off){
+	transition:all ease 0.3s;
+}
+.depicter-revert .depicter-12-element-69:not(.depicter-hover-off):hover {
+	box-shadow:-15px 30px 30px 0px rgba(171, 175, 199, 0.3);
+}
+.depicter-revert .depicter-12-section-68 .depicter-section-background{
+	background-color:#F3F4F6;
+}
+.depicter-revert .depicter-12-element-107{
+	font-size:12px;
+	color:#70798b;
+	font-family:"Quicksand";
+	font-weight:500;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-12-element-105{
+	font-size:12px;
+	color:#70798b;
+	font-family:"Quicksand";
+	font-weight:500;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-12-element-103{
+	font-size:12px;
+	color:#70798b;
+	font-family:"Quicksand";
+	font-weight:500;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-12-element-102{
+	font-size:16px;
+	color:#000000;
+	font-family:"Nunito";
+	font-weight:700;
+	line-height:120%;
+	text-transform:capitalize;
+	letter-spacing:0px;
+	background-color:transparent;
+}
+.depicter-revert .depicter-12-element-101{
+	font-size:12px;
+	color:#000000;
+	font-family:"Quicksand";
+	font-weight:500;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-12-element-100{
+	font-size:12px;
+	color:#000000;
+	font-family:"Quicksand";
+	font-weight:500;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-12-element-99{
+	font-size:16px;
+	color:#000000;
+	font-family:"Nunito";
+	font-weight:700;
+	line-height:120%;
+	text-transform:capitalize;
+	letter-spacing:0px;
+	background-color:transparent;
+}
+.depicter-revert .depicter-12-element-98{
+	font-size:12px;
+	color:#000000;
+	font-family:"Quicksand";
+	font-weight:500;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-12-element-94{
+	font-size:16px;
+	color:#000000;
+	font-family:"Nunito";
+	font-weight:700;
+	line-height:120%;
+	text-transform:capitalize;
+	letter-spacing:0px;
+	background-color:transparent;
+}
+.depicter-revert .depicter-12-element-93{
+	background-color:#ffffff;
+	border-radius:12px;
+}
+.depicter-revert .depicter-12-element-93:not(.depicter-hover-off){
+	transition:all ease 0.3s;
+}
+.depicter-revert .depicter-12-element-93:not(.depicter-hover-off):hover {
+	box-shadow:-15px 30px 30px 0px rgba(171, 175, 199, 0.3);
+}
+.depicter-revert .depicter-12-element-92{
+	background-color:#ffffff;
+	border-radius:12px;
+}
+.depicter-revert .depicter-12-element-92:not(.depicter-hover-off){
+	transition:all ease 0.3s;
+}
+.depicter-revert .depicter-12-element-92:not(.depicter-hover-off):hover {
+	box-shadow:-15px 30px 30px 0px rgba(171, 175, 199, 0.3);
+}
+.depicter-revert .depicter-12-element-91{
+	box-shadow:none;
+	background-color:#ffffff;
+	border-radius:12px;
+}
+.depicter-revert .depicter-12-element-91:not(.depicter-hover-off){
+	transition:all ease 0.3s;
+}
+.depicter-revert .depicter-12-element-91:not(.depicter-hover-off):hover {
+	box-shadow:-15px 30px 30px 0px rgba(171, 175, 199, 0.3);
+}
+.depicter-revert .depicter-12-section-90 .depicter-section-background{
+	background-color:#F3F4F6;
+}
+
+/***** Mobile *****/
+@media screen and (max-width: 767px){
+
+.depicter-revert .depicter-12-element-2{
+	font-size:35px;
+	color:#000000;
+	font-family:"Nunito";
+	font-weight:600;
+	line-height:120%;
+	letter-spacing:-2px;
+}
+.depicter-revert .depicter-12-element-77{
+	font-size:16px;
+	color:#000000;
+	font-family:"Nunito";
+	font-weight:700;
+	line-height:120%;
+	text-transform:capitalize;
+	letter-spacing:0px;
+}
+
+}
